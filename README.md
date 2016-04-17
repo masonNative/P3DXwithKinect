@@ -1,4 +1,4 @@
-ua_ros_p3dx
+Ros_p3dx_with_Kinect
 ===========
 
 A ROS/Gazebo Pioneer 3DX model.
