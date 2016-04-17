@@ -10,3 +10,4 @@ $ git clone https://github.com/masonNative/P3DXwithKinect.git
 $ cd ..
 $ catkin_make
 ```
+Also see WiKi page https://github.com/masonNative/P3DXwithKinect/wiki
